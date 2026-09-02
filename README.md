@@ -52,5 +52,5 @@ Este permite simular una máquina tragaperras utilizando números aleatorios y d
 
 ### Ejercicio No.3
 Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido . 
-1[Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
+![Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
 ### Conclusión 
