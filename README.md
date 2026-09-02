@@ -54,3 +54,27 @@ Este permite simular una máquina tragaperras utilizando números aleatorios y d
 Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido. 
  ![Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
 ### Conclusión 
+
+## Ejercicios Avanzados
+### Ejercicio No.1
+Enunciado: Escribir un programa que simule un juego entre el ordenador y el usuario.
+Ambos van a ir simulando el lanzamiento, por turnos, de tres dados.
+El lanzamiento de los dados se hace escogiendo el ordenador números al azar entre 1 y 6.
+Si algún lanzamiento suma 12 entre los tres dados, se da por acabado el juego y se indica quién es el
+ganador.
+Si pasados 10 lanzamientos de cada uno ninguno ha acertado a sacar 12, se acaba el juego con
+empate.
+Ejemplo de ejecución: Turno del ordenador, su lanzamiento: 5,7,2. Falla
+Turno del usuario, su lanzamiento: 1,1,2. Falla
+Turno del ordenador, su lanzamiento: 3,4,1. Falla
+Turno del usuario, su lanzamiento: 5,3,3. Falla
+Turno del ordenador, su lanzamiento: 5,4,1. Falla
+Turno del ordenador, su lanzamiento: 1,7,2. Falla
+Turno del ordenador, su lanzamiento: 3,3,6. GANO !!!
+![Evidencia Ejercicio1](evidencias/Eje1N.Av.png)
+### Conclusión
+
+### Ejercicio 2
+Enunciado: Pedir por teclado un número y calcular su factorial. Si el número introducido es negativo se seguirá pidiendo hasta que sea positivo.
+![Evidencia Ejercicio2](evidencias/Ejer2N.Av.png)
+### Conclusión
