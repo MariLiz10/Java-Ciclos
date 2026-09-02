@@ -19,6 +19,8 @@ hay desde el 1 hasta el número leído (éste incluido), pero escribiendo solo 5
 ### Conclusión
 este ejercicio permite comprender mejor cómo utilizar los ciclos for y las condiciones if. El programa recorre los números desde el 1 hasta el número ingresado por el usuario y, mediante el operador %, identifica cuáles son impares para mostrarlos en pantalla. También se utilizó  un contador para llevar las cuentas de los 5 números en cada línea como se menciona en el enunciado.
 
+---
+
 ## Ejercicios Intermedios
 Enunciado: Hacer un programa que pide un número al usuario,  y escribe en pantalla el mes correspondiente a tal número (si el usuario introduce  2, el programa escribe “Febrero”).  Si el numero no es válido, lo indica igualmente. Tras ello, se le pregunta al usuario si quiere repetir, y si dice “si”, se vuelve a repetir el proceso anterior.
 ![Evidencia Asignación]()
