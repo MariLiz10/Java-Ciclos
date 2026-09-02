@@ -16,7 +16,7 @@ Cuando se ejecuta el código hace bien su trabajo, utilicé el bucle for ya que 
 ### Ejercicio No.2
 Enunciado: Hacer un programa que lea un número entero por teclado y escriba los números enteros impares que
 hay desde el 1 hasta el número leído (éste incluido), pero escribiendo solo 5 números por línea.
-![Evidencia Ejercicio2](EVIDENCIAS/Nueva carpeta/Ej2N.Inicial.png)
+![Evidencia Ejercicio2](evidencias/Ej2N.Inicial.png)
 ### Conclusión
 este ejercicio permite comprender mejor cómo utilizar los ciclos for y las condiciones if. El programa recorre los números desde el 1 hasta el número ingresado por el usuario y, mediante el operador %, identifica cuáles son impares para mostrarlos en pantalla. También se utilizó  un contador para llevar las cuentas de los 5 números en cada línea como se menciona en el enunciado.
 
