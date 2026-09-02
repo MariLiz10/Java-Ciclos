@@ -26,7 +26,7 @@ este ejercicio permite comprender mejor cómo utilizar los ciclos for y las cond
 
 ### Ejercicio No.1
 Enunciado: Hacer un programa que pide un número al usuario,  y escribe en pantalla el mes correspondiente a tal número (si el usuario introduce  2, el programa escribe “Febrero”).  Si el numero no es válido, lo indica igualmente. Tras ello, se le pregunta al usuario si quiere repetir, y si dice “si”, se vuelve a repetir el proceso anterior.
-![Evidencia Ejercicio1](EVIDENCIAS/Nueva carpeta/Ejer1N.Inter.png)
+![Evidencia Ejercicio1](evidencias/Ejer1N.Inter.png)
 ### Conclusión
 Al ejecutarlo permite identificar el mes correspondiente a un número del 1 al 12 utilizando una estructura switch. Además, mediante el ciclo while, el usuario puede repetir el proceso las veces que quiera, y si introduce un número fuera del rango, el programa informa que no es válido.
 
@@ -46,11 +46,11 @@ jugador le queden “quitapenas”. Si no le quedan se mostrará un mensaje de e
 no tiene “quitapenas” para jugar.
 * El jugador debe indicar si quiere finalizar el juego → En ese momento se informará de las
 “quitapenas” que tiene y de cuántas ha ganado (las que tenga menos las que haya ido apostando).
-![Evidencia Ejercicio2](EVIDENCIAS/Nueva carpeta/Ejer2N.Inter.png)
+![Evidencia Ejercicio2](evidencias/Ejer2N.Inter.png)
 ### Conclusión
 Este permite simular una máquina tragaperras utilizando números aleatorios y diferentes condiciones para determinar si el jugador gana o pierde quitapenas. Fue el más difícil, especialmente por tener que combinar el ciclo while con varias condiciones y actualizar correctamente la cantidad de quitapenas después de cada tirada. Al final de todo creo que se logró
 
 ### Ejercicio No.3
 Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido . 
-1[Evidencia Ejercicio3](EVIDENCIAS/Nueva carpeta/Eje3N.Inter.png)
+1[Evidencia Ejercicio3](Evidencias/Eje3N.Inter.png)
 ### Conclusión 
