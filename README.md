@@ -1,4 +1,5 @@
 # Java-Ciclos
+
 ## 1. Mi informacion
 * **Nombre Completo:** Lizeth Mariana Cotrino Ossa
 * **Programa Académico:** Tecnologiaa en Desarrollo de Software
@@ -22,7 +23,31 @@ este ejercicio permite comprender mejor cómo utilizar los ciclos for y las cond
 ---
 
 ## Ejercicios Intermedios
+
+### Ejercicio No.1
 Enunciado: Hacer un programa que pide un número al usuario,  y escribe en pantalla el mes correspondiente a tal número (si el usuario introduce  2, el programa escribe “Febrero”).  Si el numero no es válido, lo indica igualmente. Tras ello, se le pregunta al usuario si quiere repetir, y si dice “si”, se vuelve a repetir el proceso anterior.
 ![Evidencia Asignación]()
 ### Conclusión
+Al ejecutarlo permite identificar el mes correspondiente a un número del 1 al 12 utilizando una estructura switch. Además, mediante el ciclo while, el usuario puede repetir el proceso las veces que quiera, y si introduce un número fuera del rango, el programa informa que no es válido.
 
+### Ejercicio No.2
+Enunciado: Vamos a escribir un programa que simule una máquina tragaperras mejorada. Las apuestas no son
+con dinero sino con fichas llamadas “quitapenas”. El funcionamiento del juego debe ser el siguiente:
+* El jugador indica cuántas “quitapenas” se quiere jugar.
+* El programa mostrará tres números al azar entre el 1 y el 6.
+* Si los tres números son distintos → el jugador pierde todas sus “quitapenas”.
+* Si los tres números son 6 (6 6 6) → el jugador pierde todas sus “quitapenas” por ser “el número
+del demonio”.
+* Si salen dos números iguales → el jugador obtiene tantas “quitapenas” como hubiera apostado.
+* Si salen tres números iguales, que no sea la combinación 6 6 6 → el jugador gana el cuadruple de lo
+que había apostado .
+* El jugador debe indicar si quiere realizar otra tirada → esta será posible siempre que al
+jugador le queden “quitapenas”. Si no le quedan se mostrará un mensaje de error indicando que
+no tiene “quitapenas” para jugar.
+* El jugador debe indicar si quiere finalizar el juego → En ese momento se informará de las
+“quitapenas” que tiene y de cuántas ha ganado (las que tenga menos las que haya ido apostando).
+![Evidencia Asignación]()
+### Conclusión
+Este permite simular una máquina tragaperras utilizando números aleatorios y diferentes condiciones para determinar si el jugador gana o pierde quitapenas. Fue el más difícil, especialmente por tener que combinar el ciclo while con varias condiciones y actualizar correctamente la cantidad de quitapenas después de cada tirada. Al final de todo creo que se logró
+
+### Ejercicio 3
