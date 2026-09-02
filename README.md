@@ -9,7 +9,7 @@
 
 ### Ejercicio No.1
 Enunciado:  Pedir por teclado 10 números e indicar si cada uno de ellos es positivo o negativo y si es par o impar.
-![Evidencia Ejercicio1](<img width="757" height="406" alt="image" src="https://github.com/user-attachments/assets/81981ac5-e10e-44bc-b44e-74c5f9947620" />)
+![Evidencia Ejercicio1](evidencias/Ej1N.Inicial.png)
 ### Conclusión:
 Cuando se ejecuta el código hace bien su trabajo, utilicé el bucle for ya que sabía cuantos números iba ingresar el usuario lo cuál este fue la mejor opción y también como se muestra en el ejercicio se utiliza el if- else para unas condiciones que se menciona en el enunciado como decir si el numero es par/impar o si era positivo/negativo. No fue complicado hacerlo ya que son cosas parecidas que ya hemos visto anteriormente.
 
