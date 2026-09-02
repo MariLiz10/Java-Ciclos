@@ -51,6 +51,6 @@ no tiene “quitapenas” para jugar.
 Este permite simular una máquina tragaperras utilizando números aleatorios y diferentes condiciones para determinar si el jugador gana o pierde quitapenas. Fue el más difícil, especialmente por tener que combinar el ciclo while con varias condiciones y actualizar correctamente la cantidad de quitapenas después de cada tirada. Al final de todo creo que se logró
 
 ### Ejercicio No.3
-Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido . 
-![Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
+Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido. 
+ ![Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
 ### Conclusión 
