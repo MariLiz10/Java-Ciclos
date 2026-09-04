@@ -54,6 +54,7 @@ Este permite simular una máquina tragaperras utilizando números aleatorios y d
 Enunciado: Realizar un programa que pida al usuario 10 números. Debe calcular el resultado de sumar los números introducidos que sean mayores que el primer numero introducido. 
  ![Evidencia Ejercicio3](evidencias/Eje3N.Inter.png)
 ### Conclusión 
+Al ejecutarse permite saber que números es mayor al primer número y así sumarlos. Para este ejercicio se utiliza el bucle for para digitar los 10 números y condicionales de if para saber que números eran mayores. No hay un rango pa saber hasta que números puedes poner solo hay un límite de poner 10 números solamente.
 
 ## Ejercicios Avanzados
 ### Ejercicio No.1
