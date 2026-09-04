@@ -74,8 +74,11 @@ Turno del ordenador, su lanzamiento: 1,7,2. Falla
 Turno del ordenador, su lanzamiento: 3,3,6. GANO !!!
 ![Evidencia Ejercicio1](evidencias/Eje1N.Av.png)
 ### Conclusión
+Este programa permite simular de manera sencilla un juego de dados utilizando números aleatorios. El programa suma los resultados de los tres dados y determina si el jugador gana cuando la suma es exactamente 12.
+Se utilizó bucle for, condicionales if y math random para los números al azar de los dados, era un poco similar al de las quitapenas.
 
 ### Ejercicio 2
 Enunciado: Pedir por teclado un número y calcular su factorial. Si el número introducido es negativo se seguirá pidiendo hasta que sea positivo.
 ![Evidencia Ejercicio2](evidencias/Ejer2N.Av.png)
 ### Conclusión
+Al ejecutarse este código le pide al usuario un número y el programa le da el resultado del factorial de ese número. 
