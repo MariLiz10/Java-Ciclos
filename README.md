@@ -81,4 +81,4 @@ Se utilizó bucle for, condicionales if y math random para los números al azar 
 Enunciado: Pedir por teclado un número y calcular su factorial. Si el número introducido es negativo se seguirá pidiendo hasta que sea positivo.
 ![Evidencia Ejercicio2](evidencias/Ejer2N.Av.png)
 ### Conclusión
-Al ejecutarse este código le pide al usuario un número y el programa le da el resultado del factorial de ese número. 
+Al ejecutarse este código le pide al usuario un número y el programa le da el resultado del factorial de ese número. Se utilizan dos bucles el for y el while, también otras variables como el String y el long que es para el factorial y de ahí dar resultado a lo que se pide.
